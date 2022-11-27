@@ -4,8 +4,9 @@
 
 <div align=center>
   
-![byungmeo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=byungmeo)</br></br>
-<img src="https://atrating.baoshuo.dev/rating?username=byungmeo&style=flat-square"> 
+<a href="https://solved.ac/profile/byungmeo">![byungmeo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=byungmeo)</a></br></br>
+<a href="https://atcoder.jp/users/byungmeo"><img src="https://atrating.baoshuo.dev/rating?username=byungmeo&style=flat-square"></a>
+
 <details> 
   <summary>AtCoder History</summary> 
   
