@@ -7,7 +7,10 @@
 
 <h2>:footprints: History</h2>
 
-<b>2023.03 ~ 개발 中</b> (:mortar_board:졸프)</br>
+<b>2023.06 ~ </b></br>
+- ???</br></br>
+
+<b>2023.03 ~ 2023.06</b> (:mortar_board:졸프)</br>
 - [ClassHUB - 미래형 강의실 플랫폼](https://github.com/Classsss/ClassHub)</br></br>
 
 <b>2022.12</b> (기말 프로젝트)</br>
