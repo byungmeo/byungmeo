@@ -20,7 +20,6 @@
 - [GersangStation - 거상 다클라 서포팅 프로그램](https://github.com/byungmeo/GersangStation)
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/byungmeo/GersangStation)
-![GitHub](https://img.shields.io/github/license/byungmeo/GersangStation)
 ![GitHub all releases](https://img.shields.io/github/downloads/byungmeo/GersangStation/total)
 </br></br>
 
