@@ -17,7 +17,12 @@
 - [DungeonInTextOnline - 텍스트기반 RPG 게임 클라이언트 & 서버](https://github.com/byungmeo/DungeonInTextOnline)</br></br>
 
 <b>2022.02 ~ 서비스 中</b></br>
-- [GersangStation - 거상 다클라 서포팅 프로그램](https://github.com/byungmeo/GersangStation)</br></br>
+- [GersangStation - 거상 다클라 서포팅 프로그램](https://github.com/byungmeo/GersangStation)
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/byungmeo/GersangStation)
+![GitHub](https://img.shields.io/github/license/byungmeo/GersangStation)
+![GitHub all releases](https://img.shields.io/github/downloads/byungmeo/GersangStation/total)
+</br></br>
 
 <b>2021.09 ~ 2021.12</b> (2학년 팀플)</br>
 - [Cockfit - 나만의 칵테일 레시피](https://github.com/byungmeo/CockFit)</br></br>
