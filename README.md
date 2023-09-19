@@ -32,7 +32,8 @@
 <h2>:video_game: Games</h2>
 
 <a href="https://solved.ac/profile/byungmeo">![byungmeo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=byungmeo)</a></br></br>
-<a href="https://atcoder.jp/users/byungmeo"><img src="https://atrating.baoshuo.dev/rating?username=byungmeo&style=flat-square"></a>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=byungmeo&theme=warm)</br>
+<img src="http://mazandi.herokuapp.com/api?handle=byungmeo&theme=warm"/></br>
 <details> 
   <summary>AtCoder History</summary> 
   [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=byungmeo)](https://github.com/akmhmgc/atcoder-stats)
